@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aqueewiew.wanghongqing.com/sitemap.xml
